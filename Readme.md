@@ -3,4 +3,4 @@
 **Name:** Ibrahim Yusuf  
 **Slack Username:** @Tory  
 **Project Description:** Deployment of a simple NGINX web server hosting a custom webpage as part of HNG Stage 0 DevOps Challenge.  
-**Server IP/Domain:** http://108.130.117.197
+**Server IP/Domain:** http://34.244.172.14
